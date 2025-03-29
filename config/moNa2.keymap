@@ -73,7 +73,7 @@
             bindings = <
 &kp NUMBER_1    &kp NUMBER_2      &kp NUMBER_3    &kp NUMBER_4      &kp NUMBER_5                                                  &kp NUMBER_6                         &kp NUMBER_7     &kp NUMBER_8  &kp NUMBER_9  &kp NUMBER_0
 &kp QUESTION    &kp GRAVE         &kp TILDE       &trans            &trans                       &kp BACKSLASH    &kp UNDERSCORE  &kp LEFT_BRACE                       &kp RIGHT_BRACE  &kp SLASH     &kp EQUAL     &kp COMMA
-&bt BT_SEL 0    &bt BT_SEL 1      &kp LEFT_SHIFT  &kp LEFT_COMMAND  &kp TAB                      &kp MINUS        &kp PIPE        &kp BACKSPACE                        &kp ENTER        &kp PLUS      &kp MINUS     &kp PERIOD
+&bt BT_SEL 0    &bt BT_SEL 1      &kp LEFT_SHIFT  &kp LEFT_COMMAND  &kp TAB                      &kp MINUS        &kp PIPE        &kp BACKSPACE                        &kp ENTER        &mkp MB4      &mkp MB5      &kp PERIOD
 &kp LEFT_SHIFT  &kp LEFT_CONTROL  &kp LEFT_ALT    &kp TAB           &mt LEFT_COMMAND LANGUAGE_1  &trans           &kp ESCAPE      &mt RS(RA(RC(RIGHT_COMMAND))) SPACE                                               &kp COLON
             >;
 
