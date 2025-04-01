@@ -75,7 +75,7 @@
 &kp LEFT_SHIFT    &kp LEFT_CONTROL  &kp NUMBER_0  &kp TAB       &mt LEFT_COMMAND LANGUAGE_1  &trans    &kp ESCAPE  &mt RS(RA(RC(RIGHT_COMMAND))) SPACE                                                   &kp PERIOD
             >;
 
-            sensor-bindings = <&inc_dec_kp MINUS EQUAL>;
+            sensor-bindings = <&inc_dec_kp RG(MINUS) RG(PLUS)>;
         };
 
         layer_3 {
